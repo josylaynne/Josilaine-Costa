@@ -1,28 +1,47 @@
-# 👋 Olá! Eu sou a Josylaynne Costa
+👋 Hi, I’m Josilaine Costa
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (3º período)** e estagiária na **Vivo (Telefônica)**, atuando na área de Engenharia de Dados e Desenvolvimento de Software. Estou em transição de carreira para **Tecnologia, Cloud, Dados e Backend**.
+Systems Analysis and Development student (3rd semester) and Data Engineering / Software Development intern at Vivo (Telefônica).
+I’m transitioning my career into Technology, Cloud, Data, and Backend Development.
 
-## 🚀 Tecnologias & Estudos Atuais
-- Python (DSA Academy)
-- Power BI
-- SQL
-- JavaScript
-- Java
-- DevOps & Cloud (certificada OCI Infrastructure)
-- Versionamento com Git/GitHub
+🚀 Technologies & Current Studies
 
-## 🎯 Objetivo profissional
-Conseguir oportunidades internacionais como:
-- **Backend Jr**
-- **Data/Cloud Analyst Jr**
-- **DevOps Jr**
-- **IT Support / Help Desk**
-- **Tech Support**
+Python (DSA Academy)
 
-## 📚 Projetos
-- **Dashboard Power BI – Vendas** (dados de exemplo)  
-📌 *Mais projetos em breve: Python, SQL e automações.*
+Power BI
 
-## 📫 Contato
-- **LinkedIn:** https://linkedin.com/in/josilaine-costa-54517b146  
-- **E-mail:** josylaynne.dev@gmail.com
+SQL
+
+JavaScript
+
+Java
+
+DevOps & Cloud (OCI Infrastructure Certified)
+
+Version Control: Git & GitHub
+
+🎯 Career Objective
+
+Looking for international opportunities as:
+
+Junior Backend Developer
+
+Junior Data / Cloud Analyst
+
+Junior DevOps
+
+IT Support / Help Desk
+
+Technical Support
+
+📚 Projects
+🔸 Power BI Dashboard – Sales (sample dataset)
+
+(Repository coming soon)
+
+More projects coming soon: Python, SQL automations, and backend applications.
+
+📫 Contact
+
+LinkedIn: linkedin.com/in/josilaine-costa-54517b146
+
+E-mail: josylaynne.dev@gmail.com
